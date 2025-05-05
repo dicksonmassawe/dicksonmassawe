@@ -1,6 +1,6 @@
 # 👨‍💻 Dickson Wilfred Massawe
 
-🚀 **CTO at [Afya Mnyama Digita](https://www.afyamnyama.co.tz/)** & CEO/Co-founder of [AGROSCAN LIMITED](https://agroscan.co.tz/)
+🚀 **CTO at [Afya Mnyama Digital](https://www.afyamnyama.co.tz/)** & CEO/Co-founder of [AGROSCAN LIMITED](https://agroscan.co.tz/)
 Driving innovation at the intersection of **animal health**, **agriculture**, and **technology** across Tanzania.
 
 🎓 With a Bachelor’s degree in Agricultural Engineering from Sokoine University of Agriculture, I specialize in **agricultural engineering**, **AI & ML**, **robotics**, **embedded systems programming**, and **automation**. I'm passionate about leveraging technology to solve real-world problems in agriculture and veterinary health.
